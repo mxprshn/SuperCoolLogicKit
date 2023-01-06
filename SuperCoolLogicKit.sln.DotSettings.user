@@ -1,11 +1,21 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e85623d_002D6e6f_002D4131_002D9d84_002D251ac7d033d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52ed50f7_002D4455_002D4f3f_002D8546_002Dfade6170fede/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa4371ae_002D6173_002D4dec_002Da13c_002D757586c5f0c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa4371ae_002D6173_002D4dec_002Da13c_002D757586c5f0c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper.MinesweeperTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper.minesweeperTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
