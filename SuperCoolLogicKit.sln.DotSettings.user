@@ -17,5 +17,8 @@
     &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper.MinesweeperTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper.minesweeperTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::Minesweeper&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.BitHacks.test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.BitHacks.hackedMaxCorrectness&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F5B6A8F-3299-419B-B71E-9D4CBD9737FE::net7.0::SuperCoolLogicKitTests.BitHacks.hackedMinCorrectness&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
